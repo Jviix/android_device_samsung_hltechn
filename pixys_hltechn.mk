@@ -19,7 +19,7 @@ $(call inherit-product, vendor/pixys/config/common_full_phone.mk)
 $(call inherit-product, device/samsung/hltechn/full_hlte.mk)
 
 PRODUCT_DEVICE := hltechn
-PRODUCT_NAME := lineage_hltechn
+PRODUCT_NAME := pixys_hltechn
 TARGET_SCREEN_WIDTH := 1080
 TARGET_SCREEN_HEIGHT := 1920
 TARGET_ARCH := arm
